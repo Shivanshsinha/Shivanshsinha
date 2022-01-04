@@ -1,7 +1,7 @@
 <p align="center"> <img src="Assets/hello.gif" alt="hello" /> </p>
 
 
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Karan](https://karankartikeya.netlify.app/) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Shivansh]
 
 <a href="https://www.linkedin.com/in/karankartikeya/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
@@ -16,14 +16,14 @@
 
  
 ### About Me 🚀
-I am pursuing B.tech CS🎓 from GRAPHIC ERA HILL UNIVERSITY DEHRADUN. I am a passionate Full Stack Web Developer👨‍💻. </br>
+I am pursuing B.tech in Computer Science with specialisation in open source and open Standards🎓 from UNIVERSITY OF PETROLEUM AND ENERGY STUDIES DEHRADUN. I am a passionate Graphic designer👨‍💻. </br>
 I believe in challenges because they make better projects best. Call me a tech nerd but that's who I am. If you come up with something interesting, I am always ready to share my views and work on them. </br>
 
  <p align="center"> <img src="Assets/coder.gif" alt="codergif" /> </p>   
 
  🔭 
  
- 🌱 I’m currently learning : [Flask](https://flask.palletsprojects.com/en/2.0.x/), [Docker](https://www.docker.com/)
+
  
   👯 
     
