@@ -22,3 +22,38 @@ I believe in challenges because they make better projects best. Call me a tech n
  <p align="center"> <img src="assets/coder.gif" alt="codergif" /> </p>   
 
  🔭 
+ 
+ 🌱 I’m currently learning : [Flask](https://flask.palletsprojects.com/en/2.0.x/), [Docker](https://www.docker.com/)
+ 
+  👯 
+    
+   
+
+
+
+<br/>
+
+![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karankartikeya&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+
+
+<br/>
+
+
+
+
+
+<!--
+**karankartikeya/karankartikeya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+-  Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
